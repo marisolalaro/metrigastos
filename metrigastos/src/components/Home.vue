@@ -1,8 +1,3 @@
 <template>
-  <div>Hola mundo</div>
+  <div>holasss mundo</div>
 </template>
-<script>
-export default {
-  name: "HomePage",
-};
-</script>

@@ -8,12 +8,15 @@ module.exports = {
     "eslint:recommended",
     "plugin:prettier/recommended",
   ],
-  parser: "@babel/eslint-parser",
   parserOptions: {
-    requireConfigFile: false,
+    parser: "@babel/eslint-parser",
   },
   rules: {
     "no-console": process.env.NODE_ENV === "production" ? "warn" : "off",
     "no-debugger": process.env.NODE_ENV === "production" ? "warn" : "off",
   },
+};
+module.exports = {
+  extends: "eslint-config-antife",
+  plugins: ["babel", "html"],
 };
