@@ -1,6 +1,9 @@
 <template>
   <header>
-    <img @click="reload" src="@/assets/cashflow-icon.svg" alt="logo" />
+    <img @click="reload" 
+    
+    src="@/assets/cashflow-icon.svg" 
+    alt="logo" />
     <h1><span>Metri</span>Gastos</h1>
     <span></span>
   </header>

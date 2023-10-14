@@ -1,5 +1,11 @@
 # metrigastos
+```
+Título:
+MetriGastos: Tu Asistente Financiero Personal
 
+Identificación de la Necesidad:
+En la sociedad actual, la gestión de las finanzas personales es una tarea esencial pero, a menudo, desafiante. Las personas necesitan una forma más efectiva y eficiente de controlar sus ingresos y gastos, establecer presupuestos, ahorrar y planificar su futuro financiero. La falta de control financiero puede generar estrés, deudas innecesarias y un impacto negativo en la calidad de vida. MetriGastos se propone abordar esta necesidad ofreciendo una herramienta digital fácil de usar que permite a las personas gestionar sus finanzas de manera más inteligente.
+```
 ## Project setup
 
 ```
